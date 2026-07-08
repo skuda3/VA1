@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">MuscleMaker</string>
+
+    <string name="login_tagline">Your progress starts here.</string>
+    <string name="login_button_google">Continue with Google</string>
+    <string name="login_terms_policy">By signing up you accept Terms of Service and Privacy Policy</string>
+    <string name="login_contact">if you have any questions contact us <a href="mailto:xskucius@mendelu.cz">here</a></string>
+
+    <string name="nav_bar_workouts">Workouts</string>
+    <string name="nav_bar_progress">Progress</string>
+    <string name="nav_bar_profile">Profile</string>
+
+    <string name="edit_exercise">Edit exercise</string>
+    <string name="add_exercise">Add exercise</string>
+    <string name="delete_exercise">Delete exercise</string>
+    <string name="save_exercise">Save exercise</string>
+    <string name="back">Back</string>
+    <string name="exercise_name">Exercise name *</string>
+    <string name="exercise_description">Description *</string>
+    <string name="exercise_video_url">Video URL (optional)</string>
+
+    <string name="workout_add">Add workout</string>
+    <string name="workout_completed">Completed</string>
+    <string name="workout_video_available">Video available</string>
+
+    <string name="workout_detail_redo">Redo</string>
+    <string name="workout_detail_done">Done</string>
+    <string name="workout_detail_edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="workout_detail_cancel">Cancel</string>
+    <string name="workout_detail_video">Video</string>
+    <string name="workout_detail_exercise">Exercise</string>
+    <string name="workout_detail_delete_workout">Delete workout</string>
+    <string name="workout_detail_complete">Mark as completed</string>
+    <string name="workout_detail_incomplete">Mark as incomplete</string>
+    <string name="workout_detail_edit_name_title">Edit workout name</string>
+    <string name="workout_detail_new_name_label">New workout name</string>
+    <string name="workout_detail_loading">Loading...</string>
+    <string name="workout_detail_edit_workout_name">Edit Workout Name</string>
+
+    <string name="add_workout_new_workout">New workout</string>
+    <string name="add_workout_save_workout">Save workout</string>
+    <string name="add_workout_workout_name">Workout name *</string>
+    <string name="add_workout_workout_name_cannot_be_empty">Workout name cannot be empty</string>
+
+    <string name="profile_logout">Logout</string>
+
+    <string name="add_progress">Add progress</string>
+    <string name="add_progress_current_weight">Current weight (kg)</string>
+    <string name="add_progress_selected_photo">Selected photo</string>
+    <string name="add_progress_add_photo">Add photo</string>
+
+    <string name="profile_screen_profile_photo">Profile photo</string>
+    <string name="profile_screen_not_available">Not available</string>
+    <string name="profile_screen_current_version">Current version: %1$s</string>
+    <string name="profile_screen_delete_account">Delete account</string>
+    <string name="profile_screen_delete_popup1">Are you sure to delete your account?</string>
+    <string name="profile_screen_delete_popup2">All your data will be removed, nothing can be restored.</string>
+    <string name="profile_screen_error_recent_login">To delete your account, we require recent login, please logout and log back in.</string>
+    <string name="profile_screen_error">Account deletion failed, please try again later.</string>
+
+
+    <string name="progress_screen_change_date">Change date</string>
+    <string name="progress_screen_progress_photo">Progress photo</string>
+    <string name="progress_screen_weight_change">Weight change</string>
+    <string name="progress_screen_weight_no_data">None weight data</string>
+    <string name="progress_screen_add">Add current weight and photo</string>
+    <string name="progress_screen_photos_date">Photos for date: %1$s</string>
+    <string name="delete">Delete</string>
+
+    <string name="permission_denied_message">Permission denied</string>
+
+
+</resources>

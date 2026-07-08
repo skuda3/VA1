@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">MuscleMaker</string>
+
+    <string name="login_tagline">Tvůj progress začíná tady.</string>
+    <string name="login_button_google">Pokračovat s Google</string>
+    <string name="login_terms_policy">Přihlášením souhlasíte s našimi Smluvními podmínkami a se zpracováváním GDPR</string>
+    <string name="login_contact">Jestli máte nějaké otázky, kontaktujte nás <a href="mailto:xskucius@mendelu.cz">zde</a>.</string>
+
+    <string name="nav_bar_workouts">Tréninky</string>
+    <string name="nav_bar_progress">Progress</string>
+    <string name="nav_bar_profile">Profil</string>
+
+    <string name="edit_exercise">Upravit cvik</string>
+    <string name="add_exercise">Přidat cvik</string>
+    <string name="delete_exercise">Smazat cvik</string>
+    <string name="save_exercise">Uložit cvik</string>
+    <string name="back">Zpět</string>
+    <string name="exercise_name">Název cviku *</string>
+    <string name="exercise_description">Popis *</string>
+    <string name="exercise_video_url">Odkaz na video (volitelné)</string>
+
+    <string name="workout_add">Přidat trénink</string>
+    <string name="workout_completed">Hotovo</string>
+    <string name="workout_video_available">Dostupné video</string>
+
+    <string name="workout_detail_redo">Zopakovat</string>
+    <string name="workout_detail_done">Hotovo</string>
+    <string name="workout_detail_edit">Upravit</string>
+    <string name="workout_detail_save">Uložit</string>
+    <string name="workout_detail_cancel">Zrušit</string>
+    <string name="workout_detail_video">Video</string>
+    <string name="workout_detail_exercise">Cvik</string>
+    <string name="workout_detail_delete_workout">Smazat trénink</string>
+    <string name="workout_detail_complete">Označit za hotový</string>
+    <string name="workout_detail_incomplete">Označit za nehotový</string>
+    <string name="workout_detail_edit_name_title">Změnit název tréninku</string>
+    <string name="workout_detail_new_name_label">Nový název tréninku</string>
+    <string name="workout_detail_loading">Načítání...</string>
+    <string name="workout_detail_edit_workout_name">Upravit název tréninku</string>
+
+    <string name="add_workout_new_workout">Nový trénink</string>
+    <string name="add_workout_save_workout">Uložit trénink</string>
+    <string name="add_workout_workout_name">Název tréninku *</string>
+    <string name="add_workout_workout_name_cannot_be_empty">Název tréninku nemůže být prázdný</string>
+
+    <string name="profile_logout">Odhlásit se</string>
+
+    <string name="add_progress">Přidat progress</string>
+    <string name="add_progress_current_weight">Aktuální váha (kg)</string>
+    <string name="add_progress_selected_photo">Vybraná fotka</string>
+    <string name="add_progress_add_photo">Přidat fotku</string>
+
+    <string name="profile_screen_profile_photo">Profilový obrázek</string>
+    <string name="profile_screen_not_available">Nedostupné</string>
+    <string name="profile_screen_current_version">Aktuální verze: %1$s</string>
+    <string name="profile_screen_delete_account">Smazat účet</string>
+    <string name="profile_screen_delete_popup1">Jsi si jistý?</string>
+    <string name="profile_screen_delete_popup2">Všechna data budou smazána, nic nelze vrátit zpět.</string>
+    <string name="profile_screen_error_recent_login">Pro smazání účtu je vyžadováno nedávné přihlášení. Přihlaste se prosím znovu a zkuste to znovu.</string>
+    <string name="profile_screen_error">Smazání účtu se nezdařilo. Zkuste to prosím později.</string>
+
+    <string name="progress_screen_change_date">Změnit datum</string>
+    <string name="progress_screen_progress_photo">Fotka progressu</string>
+    <string name="progress_screen_weight_change">Změna hmotnosti</string>
+    <string name="progress_screen_weight_no_data">Žádná data o hmotnosti</string>
+    <string name="progress_screen_add">Přidat aktuální váhu a fotku</string>
+    <string name="progress_screen_photos_date">Fotky pro datum: %1$s</string>
+    <string name="delete">Smazat</string>
+
+    <string name="permission_denied_message">Přístup zakázán</string>
+
+
+</resources>
